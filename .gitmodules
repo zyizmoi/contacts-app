@@ -1,0 +1,6 @@
+[submodule "nextgen-contacts-backend"]
+	path = nextgen-contacts-backend
+	url = https://github.com/zyizmoi/nextgen-contacts-backend
+[submodule "nextgen-contacts"]
+	path = nextgen-contacts
+	url = https://github.com/zyizmoi/nextgen-contacts
